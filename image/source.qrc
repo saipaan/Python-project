@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>star.png</file>
+    <file>cookie.png</file>
+    <file>oh.PNG</file>
+    <file>apple.PNG</file>
+    <file>candy.PNG</file>
+    <file>f1.jpg</file>
+    <file>smile.PNG</file>
+    <file>skull.png</file>
+  </qresource>
+  <qresource/>
+</RCC>
